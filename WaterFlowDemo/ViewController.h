@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TMQuiltViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : TMQuiltViewController
 
 @end
